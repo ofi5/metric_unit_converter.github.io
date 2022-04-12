@@ -1,0 +1,91 @@
+body {
+
+    max-width: 800px;
+    margin: 30px auto;
+    border-radius: 5%;
+    border: 15px solid darkblue;
+  
+}
+h1 {
+    text-align: center;
+}
+
+.box1 {
+    margin: auto;
+    
+    text-align: center;
+    border-top-left-radius: 4%;
+    border-top-right-radius: 4%;
+    color: darkblue;
+    
+
+    background-image: linear-gradient(
+  300deg,
+  
+  hsl(250deg 87% 61%) 24%,
+  hsl(21deg 70% 65%) 46%,
+  rgb(64, 209, 20)
+  
+);
+}
+
+
+.box1-content {
+    max-width: 100%;
+    padding: 20px;
+
+    
+   
+    
+
+}
+
+#input-no {
+    font-size: 100px;
+    margin: 0;
+}
+
+.box2 {
+    margin: 0;
+    align-items: center;
+    text-align: center;
+    background-color:black;
+    color: lightsteelblue;
+    padding: 20px;
+    
+    
+   
+    
+}
+
+span {
+    font-size: 30px;
+}
+
+
+#length, #volume, #mass {
+    font-size: 1.4rem;
+
+}
+
+#input-val{
+
+    border: none;
+    width: 200px;
+    font-size: 1.3rem;
+    font-weight: bold;
+    margin: 5px;
+    text-align: center;
+}
+
+#btn {
+    display: block;
+    border: none;
+    width: 200px;
+    font-weight: bold;
+    color: whitesmoke;
+    background-color: black;
+    padding: 10px;
+    margin: auto;
+    border-radius: 5px;
+}
