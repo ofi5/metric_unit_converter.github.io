@@ -2,7 +2,7 @@
 // inputVal = document.getElementById("input-no").innerText
 
 
-
+// function which will take input from user and convert it into different values.
 function measure(){
     let inputVal = document.getElementById("input-val")
     inputVal = parseInt(inputVal.value)
